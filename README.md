@@ -11,4 +11,4 @@ The call-center dataset that we're going to use has 32,941 records of data that 
 
 Excel Dashboard
 
-<img width="701" alt="exceldash" src="https://github.com/tinashdj/Call-Centers-Exploratory-Data-Analysis/assets/110084624/1c3447ce-cde8-4575-a1eb-69123fc9a486">
+<img width="1300" alt="exceldash (1)" src="https://github.com/tinashdj/Call-Centers-Exploratory-Data-Analysis/assets/110084624/9e52a7bc-94b9-4753-a01d-eaa90e3ef07a">
