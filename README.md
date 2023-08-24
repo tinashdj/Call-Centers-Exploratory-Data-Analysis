@@ -7,7 +7,3 @@ The call-center dataset that we're going to use has 32,941 records of data that 
 [Dashboard Link](https://public.tableau.com/app/profile/sri.hartina/viz/callcenterproject_16655045000700/Dashboard1)
    
 ![Call Center Dashboard - #RWFD - Tableau Public](https://user-images.githubusercontent.com/110084624/233933765-d7a94d7d-22fe-4b25-8e9e-bf4166cb50fc.png)
-
-
-
-<img width="566" alt="exceldash" src="https://github.com/tinashdj/Call-Centers-Exploratory-Data-Analysis/assets/110084624/0a1382a0-cf1d-4bcc-a047-b8f928fe5225">
