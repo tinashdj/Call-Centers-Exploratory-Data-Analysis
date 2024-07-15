@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------
 --------------------------------------EXPLORING DATA--------------------------------------
 ------------------------------------------------------------------------------------------
-BEGIN;
+
 
 ----1. How many call centers?----
 SELECT DISTINCT call_center FROM calls;
@@ -53,3 +53,6 @@ FROM calls
 WHERE sentiment = 'Very Positive'
 GROUP BY sentiment, customer_name
 LIMIT 10;
+
+
+$$ LANGUAGE plpgsql;
